@@ -1,0 +1,22 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container
+{
+    box-shadow: 10px 0 30px rgba(0,0,0,0.3);
+}
+.card-header
+{
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+    color: #fff;
+    align-items: center;
+}
+.card-header h4
+{
+    text-align: center;
+}
